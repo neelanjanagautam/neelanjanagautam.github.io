@@ -89,7 +89,7 @@ figure figcaption {
 }
 
 #fh5co-aside {
-  padding-top: 60px;
+  padding-top: 10px;
   padding-bottom: 40px;
   width: 20%;
   position: fixed;
@@ -212,13 +212,13 @@ figure figcaption {
 }
 #fh5co-aside .fh5co-footer {
   position: absolute;
-  bottom: 40px;
-  font-size: 14px;
+  bottom: 60px;
+  font-size: 20px;
   text-align: center;
   width: 100%;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.6);
-  padding: 0 20px;
+  padding: 10 20px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-aside .fh5co-footer {
@@ -778,8 +778,8 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
-  height: 100px;
+  width: 10px;
+  height: 10px;
   display: table;
   text-align: center;
   background: rgba(0, 0, 0, 0.05);
@@ -793,7 +793,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   vertical-align: middle;
   color: #228896;
   font-size: 40px;
-  height: 100px;
+  height: 20px;
 }
 @media screen and (max-width: 1200px) {
   .fh5co-feature .fh5co-icon i {
